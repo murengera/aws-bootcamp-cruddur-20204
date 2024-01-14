@@ -8,7 +8,7 @@
   "EvaluationPeriods": 1,
   "DatapointsToAlarm": 1,
   "Threshold": 1,
-  "ComparisonOperator": "GreaterThanOrEqualToThrehold",
+  "ComparisonOperator": "GreaterThanOrEqualToThehold",
   "TreatMissingData": "breaching",
   "Metrics": [{
       "Id": "m1",
